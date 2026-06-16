@@ -1,4 +1,4 @@
-A collection of articles by Michael Petrovich on product, engineering, and leadership.
+A collection of articles on product, engineering, and leadership.
 
 ## Articles
 
